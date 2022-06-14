@@ -1,1 +1,1 @@
-<div id="copyright text-right"> Copyright 2022 Charisa C. Sevilla</div>
+<div id="copyright text-right" style="text-align:center"><br> © Copyright <b>2022</b> Charisa C. Sevilla</div>
